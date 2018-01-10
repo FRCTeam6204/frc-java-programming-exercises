@@ -1,4 +1,5 @@
 # Exercises – Java Basics
+You should be able to complete these after doing some of a basic Java tutorial, such as [this one](https://www.tutorialspoint.com/java/). The problems increase in complexity, so a little extra research will go a long way if you're stuck.
 
 ##### 1. If you haven't already, write a 'Hello, world!' program in Java.
 
