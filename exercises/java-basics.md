@@ -4,10 +4,8 @@ You should be able to complete these after doing some of a basic Java tutorial, 
 ##### 1. If you haven't already, write a 'Hello, world!' program in Java.
 
 ##### 2. Write a program to print every number from 0 to 100.
-After that, modify your program to print every even number from 0 to 100. For a more advanced task, try the FizzBuzz challenge:
-> Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
-
-[Source](http://wiki.c2.com/?FizzBuzzTest)
+After that, modify your program to print every even number from 0 to 100. For a more advanced task, try the [FizzBuzz](https://www.wikiwand.com/en/Fizz_buzz) challenge:
+> Write a program that prints the numbers from 1 to 100, but for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
 
 Example output is:
 ```
